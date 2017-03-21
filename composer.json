@@ -1,6 +1,6 @@
 {
-    "name": "mdanter/ecc",
-    "description": "PHP Elliptic Curve Cryptography library",
+    "name": "goodid/goodid-phpecc-php55",
+    "description": "PHP Elliptic Curve Cryptography library. Mirrored from mdanter/phpecc",
     "type": "library",
     "homepage": "https://github.com/mdanter/phpecc",
     "time": "2014-07-07 12:44:15",
@@ -28,7 +28,7 @@
         "php": ">=5.4.0",
         "ext-gmp": "*",
         "ext-mcrypt": "*",
-        "fgrosse/phpasn1": "~1.3.1",
+        "goodid/goodid-phpasn1-php55": "~1.0",
         "symfony/console": "~2.6"
     },
     "require-dev": {
