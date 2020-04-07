@@ -29,7 +29,7 @@
         "ext-gmp": "*",
         "ext-mcrypt": "*",
         "goodid/goodid-phpasn1-php55": "~1.0",
-        "symfony/console": "~2.6"
+        "symfony/console": "^2.6|^3.4"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.1",
